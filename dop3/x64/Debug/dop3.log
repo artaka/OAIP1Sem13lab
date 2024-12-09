@@ -1,0 +1,22 @@
+﻿Сборка начата 07.12.2024 11:37:28.
+Уровень детализации журнала: Normal.     1>Проект "D:\prog\ОАиП\Лабы\Lab13\dop3\dop3.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\dop3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\dop3.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         dop3.vcxproj -> D:\prog\ОАиП\Лабы\Lab13\x64\Debug\dop3.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\dop3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\dop3.tlog\dop3.lastbuildstate".
+     1>Сборка проекта "D:\prog\ОАиП\Лабы\Lab13\dop3\dop3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.28
